@@ -26,7 +26,7 @@ Table of content
 Libraries used numpy,pandas,matplotlib,seaborn,sklearn etc.
 
 2. READING DATASET
-![Screenshot (29)](https://user-images.githubusercontent.com/114558841/194384009-21c0810b-4703-4348-841d-93b33d258e5c.png
+![Screenshot (29)](https://user-images.githubusercontent.com/114558841/194384009-21c0810b-4703-4348-841d-93b33d258e5c.png)
 ▪ OUTPUT
 ![Screenshot (27)](https://user-images.githubusercontent.com/114558841/194384321-3f6db466-116b-469b-bc93-a7498abf6bd0.png)
 
