@@ -83,6 +83,9 @@ There are 1 from 25 columns with categorical data
  Columns categorical data = ['Date']
 
 
+![Screenshot (51)](https://user-images.githubusercontent.com/114558841/194388744-ecd54396-5316-4761-a238-288a0a993855.png)
+
+
 
 
 
