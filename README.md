@@ -93,6 +93,18 @@ There are 1 from 25 columns with categorical data
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/114558841/194483907-c1e45921-d57e-4ac8-b46e-0ee653d28f82.png)
 
+• OUTPUT: ‘2013-06-30’
+
+![Screenshot (56)](https://user-images.githubusercontent.com/114558841/194485857-402df38a-2ccd-4f6b-90cc-50023e57b4fe.png)
+
+• OUTPUT: ‘2013’
+
+![Screenshot (57)](https://user-images.githubusercontent.com/114558841/194485982-c80facc2-b84c-46ec-8f11-2fe4d9635ce4.png)
+
+• OUTPUT: ‘06’
+
+![Screenshot (58)](https://user-images.githubusercontent.com/114558841/194486270-9fe75d20-9bfc-4359-8d9f-c73a83f87b5d.png)
+
 
 
 
